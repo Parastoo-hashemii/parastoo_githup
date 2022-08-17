@@ -1,0 +1,14 @@
+h1
+p
+img
+a
+input
+sub
+sup
+hearder 
+nav
+main
+section
+div
+footer
+there are tags for html
