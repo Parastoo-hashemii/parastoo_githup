@@ -1,9 +1,0 @@
-# parastoo_githup
-this is for learning for githup
-h1
-p
-img
-ul
-ol
-li
-a
