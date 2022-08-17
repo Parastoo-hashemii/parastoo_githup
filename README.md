@@ -1,7 +1,7 @@
 # parastoo_githup
 this is for learning for githup
 
-tags on html
+tags on html & html 3
 h1
 p
 a
@@ -20,7 +20,7 @@ tbody
 tfoot
 
 
-
+this is in html3
 semantic tag
 header
 nav
