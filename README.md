@@ -11,6 +11,14 @@ ol
 li
 input
 lable
+table
+th
+tr
+td
+thead
+tbody
+tfoot
+
 
 
 semantic tag
